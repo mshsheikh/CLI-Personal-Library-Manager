@@ -14,6 +14,6 @@ Manage your book collection easily with this command-line tool! Keep track of yo
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
 ```bash
 git clone https://github.com/mshsheikh/CLI-Personal-Library-Manager.git
